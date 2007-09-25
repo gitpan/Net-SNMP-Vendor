@@ -6,7 +6,7 @@ WriteMakefile(
               VERSION_FROM  => 'Vendor.pm',
               PREREQ_PM     => { 
                                 LWP::Simple => "1.41",
-                                DBM::Deep   => "1.0002",
+                                DBM::Deep   => "0.983",
                                },             
               ABSTRACT_FROM => 'Vendor.pm',
               AUTHOR        => 'Florian Endler <endelr@cpan.org>',
